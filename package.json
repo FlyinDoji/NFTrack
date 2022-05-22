@@ -1,0 +1,21 @@
+{
+  "name": "nftrack",
+  "version": "0.0.1",
+  "description": "nft collection tracking and automated order submission",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "run": "node ./src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlyinDoji/NFTrack.git"
+  },
+  "author": "0xdoj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlyinDoji/NFTrack/issues"
+  },
+  "homepage": "https://github.com/FlyinDoji/NFTrack#readme"
+}
